@@ -3,6 +3,7 @@
 
 int main()
 {
+    // string adalah kumpulan dari karakter
     char characterName[] = "Sahal";
     int characterAge = 19;
     printf("There was a man names %s\n", characterName);
