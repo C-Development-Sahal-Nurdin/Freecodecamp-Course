@@ -14,7 +14,7 @@ int main()
     printf("Enter first number: ");
     scanf("%lf", &num1);
      printf("Enter an operator: ");
-    scanf("%c", &op);
+    scanf(" %c", &op);
 
     // LOGIC
     if (op == '+') {
