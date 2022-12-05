@@ -9,6 +9,6 @@ int main()
     printf("Enter second number: ");
     scanf("%lf", &num1);
 
-    printf("Amswer: %f", num1 + num2);
+    printf("Answer: %f", num1 + num2);
     return 0;
 }
